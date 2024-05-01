@@ -2,7 +2,7 @@ const axios = require('axios');
 const cheerio = require('cheerio');
 
 // URL da página que você deseja fazer o scraping
-const url = 'https://www.mercadolivre.com.br/ofertas?container_id=MLB779535-1&domain_id=MLB-CELLPHONES#origin=scut&filter_applied=domain_id&filter_position=4&is_recommended_domain=false';
+const url = 'https://www.mercadolivre.com.br/ofertas?deal_ids=MLB1031452-2&container_id=MLB1031452-2#origin=scut&filter_applied=deal_ids&filter_position=5&is_recommended_domain=false';
 
 
 
